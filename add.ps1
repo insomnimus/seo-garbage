@@ -1,3 +1,4 @@
+#!/usr/bin/env pwsh
 [CmdletBinding()]
 param (
 	[Parameter(Mandatory, Position = 0, ValueFromPipeline, ValueFromRemainingArguments)]
