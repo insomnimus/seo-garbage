@@ -1,0 +1,17 @@
+! Title: Insomnia's Garbage Sites Filter
+! Expires: 1 day
+! Description: Removes AI generated  sites, sites that carry little real info but tons of SEO douchebaggery or otherwise sites with no useful content, from search results in brave
+! Homepage: https://github.com/insomnimus/seo-garbage
+! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
+
+search.brave.com###results > div:has(a[href*="cookindocs.com"])
+search.brave.com###results > div:has(a[href*="cookingbrush.com"])
+search.brave.com###results > div:has(a[href*="experts-exchange.com"])
+search.brave.com###results > div:has(a[href*="gitmemory.com"])
+search.brave.com###results > div:has(a[href*="morioh.com"])
+search.brave.com###results > div:has(a[href*="pythonpool.com"])
+search.brave.com###results > div:has(a[href*="savorysuitcase.com"])
+search.brave.com###results > div:has(a[href*="speechify.com"])
+search.brave.com###results > div:has(a[href*="theseasideinstitute.org"])
+search.brave.com###results > div:has(a[href*="xspdf.com"])
+search.brave.com###results > div:has(a[href*="zhishibo.com"])

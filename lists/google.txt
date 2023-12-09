@@ -1,0 +1,17 @@
+! Title: Insomnia's Garbage Sites Filter
+! Expires: 1 day
+! Description: Removes AI generated  sites, sites that carry little real info but tons of SEO douchebaggery or otherwise sites with no useful content, from search results in google
+! Homepage: https://github.com/insomnimus/seo-garbage
+! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
+
+google.*###rso .MjjYud a[href*="cookindocs.com"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="cookingbrush.com"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="experts-exchange.com"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="gitmemory.com"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="morioh.com"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="pythonpool.com"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="savorysuitcase.com"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="speechify.com"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="theseasideinstitute.org"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="xspdf.com"]:upward(.MjjYud)
+google.*###rso .MjjYud a[href*="zhishibo.com"]:upward(.MjjYud)

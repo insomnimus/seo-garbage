@@ -1,0 +1,28 @@
+! Title: Insomnia's Garbage Sites Filter
+! Expires: 1 day
+! Description: Removes AI generated  sites, sites that carry little real info but tons of SEO douchebaggery or otherwise sites with no useful content, from search results in ddg and google
+! Homepage: https://github.com/insomnimus/seo-garbage
+! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
+
+duckduckgo.com##.react-results--main > li:has(a[href*="cookindocs.com"])
+google.*###rso .MjjYud a[href*="cookindocs.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="cookingbrush.com"])
+google.*###rso .MjjYud a[href*="cookingbrush.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="experts-exchange.com"])
+google.*###rso .MjjYud a[href*="experts-exchange.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="gitmemory.com"])
+google.*###rso .MjjYud a[href*="gitmemory.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="morioh.com"])
+google.*###rso .MjjYud a[href*="morioh.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="pythonpool.com"])
+google.*###rso .MjjYud a[href*="pythonpool.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="savorysuitcase.com"])
+google.*###rso .MjjYud a[href*="savorysuitcase.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="speechify.com"])
+google.*###rso .MjjYud a[href*="speechify.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="theseasideinstitute.org"])
+google.*###rso .MjjYud a[href*="theseasideinstitute.org"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="xspdf.com"])
+google.*###rso .MjjYud a[href*="xspdf.com"]:upward(.MjjYud)
+duckduckgo.com##.react-results--main > li:has(a[href*="zhishibo.com"])
+google.*###rso .MjjYud a[href*="zhishibo.com"]:upward(.MjjYud)

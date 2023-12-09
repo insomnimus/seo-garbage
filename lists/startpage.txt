@@ -1,0 +1,17 @@
+! Title: Insomnia's Garbage Sites Filter
+! Expires: 1 day
+! Description: Removes AI generated  sites, sites that carry little real info but tons of SEO douchebaggery or otherwise sites with no useful content, from search results in startpage
+! Homepage: https://github.com/insomnimus/seo-garbage
+! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
+
+startpage.com##.w-gl__result:has(a[href*="cookindocs.com"])
+startpage.com##.w-gl__result:has(a[href*="cookingbrush.com"])
+startpage.com##.w-gl__result:has(a[href*="experts-exchange.com"])
+startpage.com##.w-gl__result:has(a[href*="gitmemory.com"])
+startpage.com##.w-gl__result:has(a[href*="morioh.com"])
+startpage.com##.w-gl__result:has(a[href*="pythonpool.com"])
+startpage.com##.w-gl__result:has(a[href*="savorysuitcase.com"])
+startpage.com##.w-gl__result:has(a[href*="speechify.com"])
+startpage.com##.w-gl__result:has(a[href*="theseasideinstitute.org"])
+startpage.com##.w-gl__result:has(a[href*="xspdf.com"])
+startpage.com##.w-gl__result:has(a[href*="zhishibo.com"])

@@ -1,0 +1,17 @@
+! Title: Insomnia's Garbage Sites Filter
+! Expires: 1 day
+! Description: Removes AI generated  sites, sites that carry little real info but tons of SEO douchebaggery or otherwise sites with no useful content, from search results in ddg
+! Homepage: https://github.com/insomnimus/seo-garbage
+! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
+
+duckduckgo.com##.react-results--main > li:has(a[href*="cookindocs.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="cookingbrush.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="experts-exchange.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="gitmemory.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="morioh.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="pythonpool.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="savorysuitcase.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="speechify.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="theseasideinstitute.org"])
+duckduckgo.com##.react-results--main > li:has(a[href*="xspdf.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="zhishibo.com"])

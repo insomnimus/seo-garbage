@@ -1,0 +1,17 @@
+! Title: Insomnia's Garbage Sites Filter
+! Expires: 1 day
+! Description: Blocks access to AI generated  sites, sites that carry little real info but tons of SEO douchebaggery or otherwise sites with no useful content
+! Homepage: https://github.com/insomnimus/seo-garbage
+! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
+
+||cookindocs.com^$all
+||cookingbrush.com^$all
+||experts-exchange.com^$all
+||gitmemory.com^$all
+||morioh.com^$all
+||pythonpool.com^$all
+||savorysuitcase.com^$all
+||speechify.com^$all
+||theseasideinstitute.org^$all
+||xspdf.com^$all
+||zhishibo.com^$all

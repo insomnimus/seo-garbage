@@ -51,6 +51,8 @@ end {
 	| join-string -separator "`n" -outputSuffix "`n" `
 	| out-file -NoNewLine -Encoding UTF8 $file
 
+	& "$PSScriptRoot/generate-lists.ps1"
+
 	$msg = $new | sort | join-string -separator ", " -outputPrefix "add: "
 	if($msg.length -gt 128) {
 		$msg = "add: $($new.count) sites"
