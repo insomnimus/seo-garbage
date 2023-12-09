@@ -28,6 +28,9 @@ begin {
 
 process {
 	foreach($x in $url) {
+		if($x -notlike "?*://*") {
+			$x = "https://$x"
+		}
 		$dom = script:get-domain $x
 		if($list.ContainsKey($dom)) {
 			write-warning "list already contains $dom"
