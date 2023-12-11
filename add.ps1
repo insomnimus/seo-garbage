@@ -70,7 +70,7 @@ end {
 
 	git -C $PSScriptRoot add list.txt lists
 	if($LastExitCode -ne 0) {
-		write-error "faield to add list.txt in git"
+		write-error "failed to add list.txt in git"
 	}
 	git -C $PSScriptRoot commit -m $msg
 	if($LastExitCode -ne 0) {
