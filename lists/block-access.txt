@@ -13,11 +13,14 @@
 ||cookindocs.com^$all
 ||cookingbrush.com^$all
 ||delux-kariera.cz^$all
+||dnrhoee.com^$all
+||dohenr.com^$all
 ||domybrezina.cz^$all
 ||doubleagency.cz^$all
 ||drivecabrio.cz^$all
 ||dvorakjakub.cz^$all
 ||eden-chalupa.cz^$all
+||ertyws.com^$all
 ||experts-exchange.com^$all
 ||folie-stresni.cz^$all
 ||gitmemory.com^$all
@@ -27,6 +30,7 @@
 ||hordunwebs.cz^$all
 ||hospodaulipy.cz^$all
 ||kbbeta.cz^$all
+||lukasvalco.cz^$all
 ||madebykiki.cz^$all
 ||mapyourdreams.cz^$all
 ||mariekouc.cz^$all
@@ -39,6 +43,7 @@
 ||petr-palicka.cz^$all
 ||pizzabarborka.cz^$all
 ||pracesvet.cz^$all
+||pracevtaxi.cz^$all
 ||pythonpool.com^$all
 ||retwyia.com^$all
 ||rudolfprchlikphoto.cz^$all
@@ -48,6 +53,7 @@
 ||sirox.cz^$all
 ||speechify.com^$all
 ||stehovani-vesely.cz^$all
+||sunevents.cz^$all
 ||theseasideinstitute.org^$all
 ||truhlarstvi-trebic.cz^$all
 ||twrmas.com^$all
@@ -55,9 +61,11 @@
 ||ubydlim.cz^$all
 ||uklid-nejlevneji.cz^$all
 ||uklidpaja.cz^$all
+||vedome-leceni-anaiemira.cz^$all
 ||vinca.cz^$all
 ||virivka-virivky.cz^$all
 ||virtualni-poradce.cz^$all
+||vunda.click^$all
 ||xspdf.com^$all
 ||zdravykramek.cz^$all
 ||zednictvi-tesarstvi.cz^$all
