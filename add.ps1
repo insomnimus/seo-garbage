@@ -4,10 +4,13 @@ param (
 	[Parameter(Mandatory, Position = 0, ValueFromPipeline, ValueFromRemainingArguments)]
 	[object[]] $url,
 	[switch] $noCommit,
-	[switch] $noPush
+	[switch] $noPush,
+	[switch] $noPull
 )
 
 begin {
+	write-information -infa continue "pulling for changes"
+	git -C $PSScriptRoot pull
 	$file = "$PSScriptRoot/list.txt"
 	$ErrorActionPreference = "stop"
 	$list = [Collections.Generic.SortedDictionary[string, bool]]::new()
