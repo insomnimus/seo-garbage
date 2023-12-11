@@ -48,8 +48,7 @@ $rules = [ordered] @{
 		}
 	}
 	ddg = 'duckduckgo.com##.react-results--main > li:has(a[href*="{0}"])'
-	# google = 'google.*###rso .MjjYud a[href*="{0}"]:upward(.MjjYud)'
-	google = 'google.*##a[href*="{0}"]:upward(1)'
+	google = 'google.*###rso .MjjYud a[href*="{0}"]:upward(.MjjYud)' + "`n" + 'google.*##a[href*="{0}"]:upward(1)'
 	brave = 'search.brave.com###results > div:has(a[href*="{0}"])'
 	startpage = 'startpage.com##.w-gl__result:has(a[href*="{0}"])'
 	ecosia = 'ecosia.org###main .result:has(a[href*="{0}"])'
