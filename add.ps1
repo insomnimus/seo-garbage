@@ -9,8 +9,10 @@ param (
 )
 
 begin {
-	write-information -infa continue "pulling for changes"
-	git -C $PSScriptRoot pull
+	if(!$noPull) {
+		write-information -infa continue "pulling for changes"
+		git -C $PSScriptRoot pull
+	}
 	$file = "$PSScriptRoot/list.txt"
 	$ErrorActionPreference = "stop"
 	$list = [Collections.Generic.SortedDictionary[string, bool]]::new()
