@@ -63,7 +63,7 @@ end {
 		return
 	}
 
-	git -C $PSScriptRoot add list.txt
+	git -C $PSScriptRoot add list.txt lists
 	if($LastExitCode -ne 0) {
 		write-error "faield to add list.txt in git"
 	}
