@@ -6,6 +6,7 @@
 
 ||45sro.cz^$all
 ||altrichter.cz^$all
+||atonce.com^$all
 ||autohausszymon.cz^$all
 ||backprojekt.cz^$all
 ||bilovickacukrarna.cz^$all
