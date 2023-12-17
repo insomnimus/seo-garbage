@@ -10,6 +10,7 @@
 ||autohausszymon.cz^$all
 ||backprojekt.cz^$all
 ||bilovickacukrarna.cz^$all
+||breadopedia.com^$all
 ||by-kate.cz^$all
 ||coalitionbrewing.com^$all
 ||cookindocs.com^$all
