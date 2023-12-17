@@ -58,6 +58,7 @@
 ||stehovani-vesely.cz^$all
 ||sunevents.cz^$all
 ||theseasideinstitute.org^$all
+||thewellflouredkitchen.com^$all
 ||truhlarstvi-trebic.cz^$all
 ||twrmas.com^$all
 ||tzfoto.cz^$all
