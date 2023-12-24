@@ -23,6 +23,7 @@
 ||dvorakjakub.cz^$all
 ||eatdelights.com^$all
 ||eden-chalupa.cz^$all
+||empirefoodsworld.com^$all
 ||ertyws.com^$all
 ||experts-exchange.com^$all
 ||folie-stresni.cz^$all
