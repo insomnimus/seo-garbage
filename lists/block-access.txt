@@ -71,6 +71,7 @@
 ||virivka-virivky.cz^$all
 ||virtualni-poradce.cz^$all
 ||vunda.click^$all
+||winemakerscorner.com^$all
 ||xspdf.com^$all
 ||zdravykramek.cz^$all
 ||zednictvi-tesarstvi.cz^$all
