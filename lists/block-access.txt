@@ -51,6 +51,7 @@
 ||pracevtaxi.cz^$all
 ||pythonpool.com^$all
 ||rattleinnaustin.com^$all
+||restonyc.com^$all
 ||retwyia.com^$all
 ||rudolfprchlikphoto.cz^$all
 ||sarkaw.cz^$all
