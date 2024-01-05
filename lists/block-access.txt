@@ -25,6 +25,7 @@
 ||eden-chalupa.cz^$all
 ||empirefoodsworld.com^$all
 ||ertyws.com^$all
+||exoticfruitsandvegetables.com^$all
 ||experts-exchange.com^$all
 ||folie-stresni.cz^$all
 ||gitmemory.com^$all
