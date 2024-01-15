@@ -60,6 +60,7 @@
 ||simpleo.cz^$all
 ||sirox.cz^$all
 ||speechify.com^$all
+||spicytrio.com^$all
 ||stehovani-vesely.cz^$all
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
