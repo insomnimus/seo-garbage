@@ -33,6 +33,7 @@
 ||gps-tracker.cz^$all
 ||graflow.cz^$all
 ||greengoscantina.com^$all
+||healthyandnaturalworld.com^$all
 ||hlelrse.com^$all
 ||hordunwebs.cz^$all
 ||hospodaulipy.cz^$all
