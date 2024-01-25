@@ -23,6 +23,7 @@
 ||dvorakjakub.cz^$all
 ||eatdelights.com^$all
 ||eden-chalupa.cz^$all
+||ehow.co.uk^$all
 ||empirefoodsworld.com^$all
 ||ertyws.com^$all
 ||exoticfruitsandvegetables.com^$all
