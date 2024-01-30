@@ -61,6 +61,7 @@
 ||savorysuitcase.com^$all
 ||simpleo.cz^$all
 ||sirox.cz^$all
+||skillapp.co^$all
 ||speechify.com^$all
 ||spicytrio.com^$all
 ||stehovani-vesely.cz^$all
