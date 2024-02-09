@@ -37,6 +37,7 @@
 ||hlelrse.com^$all
 ||hordunwebs.cz^$all
 ||hospodaulipy.cz^$all
+||hotsaucehell.com^$all
 ||kbbeta.cz^$all
 ||loavesanddishes.net^$all
 ||lukasvalco.cz^$all
