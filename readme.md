@@ -4,7 +4,7 @@ This repository contains a list of sites that I've come across in various search
 It is a work in progress. New sites will be added as I come across them.
 
 ## Add To UBlock-Origin
-Navigate to one of the links below.
+Navigate to one of the links below. By default ublock will automatically update from this repository after subscription.
 
 All of these except "Block Access" will remove search results in the given search engine.
 
