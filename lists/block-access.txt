@@ -40,6 +40,7 @@
 ||hospodaulipy.cz^$all
 ||hotsaucehell.com^$all
 ||kbbeta.cz^$all
+||linovox.com^$all
 ||loavesanddishes.net^$all
 ||lukasvalco.cz^$all
 ||madebykiki.cz^$all
