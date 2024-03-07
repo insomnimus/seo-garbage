@@ -40,6 +40,7 @@
 ||hospodaulipy.cz^$all
 ||hotsaucehell.com^$all
 ||hubwiz.com^$all
+||installati.one^$all
 ||kbbeta.cz^$all
 ||linovox.com^$all
 ||loavesanddishes.net^$all
