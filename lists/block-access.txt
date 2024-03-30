@@ -42,6 +42,7 @@
 ||hubwiz.com^$all
 ||installati.one^$all
 ||kbbeta.cz^$all
+||legit.ng^$all
 ||linovox.com^$all
 ||loavesanddishes.net^$all
 ||lukasvalco.cz^$all
