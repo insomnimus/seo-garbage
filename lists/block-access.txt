@@ -88,6 +88,7 @@
 ||virtualni-poradce.cz^$all
 ||vunda.click^$all
 ||winemakerscorner.com^$all
+||worldpopulationreview.com^$all
 ||xspdf.com^$all
 ||zdravykramek.cz^$all
 ||zednictvi-tesarstvi.cz^$all
