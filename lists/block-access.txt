@@ -41,6 +41,7 @@
 ||hotsaucehell.com^$all
 ||hubwiz.com^$all
 ||installati.one^$all
+||jewellerythrone.com^$all
 ||kbbeta.cz^$all
 ||legit.ng^$all
 ||linovox.com^$all
