@@ -65,6 +65,7 @@
 ||restonyc.com^$all
 ||retwyia.com^$all
 ||rudolfprchlikphoto.cz^$all
+||sampletestfile.com^$all
 ||sarkaw.cz^$all
 ||savorysuitcase.com^$all
 ||simpleo.cz^$all
