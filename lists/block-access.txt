@@ -85,6 +85,7 @@
 ||uklid-nejlevneji.cz^$all
 ||uklidpaja.cz^$all
 ||vedome-leceni-anaiemira.cz^$all
+||verywellfit.com^$all
 ||vinca.cz^$all
 ||virivka-virivky.cz^$all
 ||virtualni-poradce.cz^$all
