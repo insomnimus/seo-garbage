@@ -55,6 +55,7 @@
 ||moneualcz.cz^$all
 ||morioh.com^$all
 ||novymsmerem.cz^$all
+||organicauthority.com^$all
 ||otu-cus.cz^$all
 ||patricienovakova.cz^$all
 ||petr-palicka.cz^$all
