@@ -14,6 +14,7 @@
 ||coalitionbrewing.com^$all
 ||cookindocs.com^$all
 ||cookingbrush.com^$all
+||cookupexperts.com^$all
 ||delux-kariera.cz^$all
 ||dnrhoee.com^$all
 ||dohenr.com^$all
