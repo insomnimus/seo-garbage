@@ -9,6 +9,7 @@
 ||atonce.com^$all
 ||autohausszymon.cz^$all
 ||backprojekt.cz^$all
+||bakedideas.com^$all
 ||bilovickacukrarna.cz^$all
 ||by-kate.cz^$all
 ||coalitionbrewing.com^$all
