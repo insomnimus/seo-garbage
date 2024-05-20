@@ -63,6 +63,7 @@
 ||pizzabarborka.cz^$all
 ||pracesvet.cz^$all
 ||pracevtaxi.cz^$all
+||psychosynth.com^$all
 ||pythonpool.com^$all
 ||rattleinnaustin.com^$all
 ||restonyc.com^$all
