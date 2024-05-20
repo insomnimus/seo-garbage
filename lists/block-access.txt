@@ -12,6 +12,7 @@
 ||bakedideas.com^$all
 ||bilovickacukrarna.cz^$all
 ||by-kate.cz^$all
+||cepi.io^$all
 ||coalitionbrewing.com^$all
 ||cookindocs.com^$all
 ||cookingbrush.com^$all
