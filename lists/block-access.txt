@@ -44,6 +44,7 @@
 ||hotsaucehell.com^$all
 ||hubwiz.com^$all
 ||installati.one^$all
+||ironandgrit.com^$all
 ||jewellerythrone.com^$all
 ||kbbeta.cz^$all
 ||legit.ng^$all
