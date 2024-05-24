@@ -83,6 +83,7 @@
 ||stehovani-vesely.cz^$all
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
+||thekitchencommunity.org^$all
 ||theseasideinstitute.org^$all
 ||thewellflouredkitchen.com^$all
 ||truhlarstvi-trebic.cz^$all
