@@ -13,6 +13,7 @@
 ||bilovickacukrarna.cz^$all
 ||by-kate.cz^$all
 ||cepi.io^$all
+||chefsresource.com^$all
 ||coalitionbrewing.com^$all
 ||cookindocs.com^$all
 ||cookingbrush.com^$all
