@@ -11,6 +11,7 @@
 ||backprojekt.cz^$all
 ||bakedideas.com^$all
 ||bilovickacukrarna.cz^$all
+||brewingway.com^$all
 ||by-kate.cz^$all
 ||cepi.io^$all
 ||chefsresource.com^$all
