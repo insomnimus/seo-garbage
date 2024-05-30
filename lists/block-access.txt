@@ -101,6 +101,7 @@
 ||virivka-virivky.cz^$all
 ||virtualni-poradce.cz^$all
 ||vunda.click^$all
+||wholebiteblog.com^$all
 ||winemakerscorner.com^$all
 ||worldpopulationreview.com^$all
 ||xspdf.com^$all
