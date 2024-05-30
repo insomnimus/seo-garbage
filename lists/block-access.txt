@@ -35,6 +35,7 @@
 ||exoticfruitsandvegetables.com^$all
 ||experts-exchange.com^$all
 ||folie-stresni.cz^$all
+||foodchamps.org^$all
 ||gitmemory.com^$all
 ||gps-tracker.cz^$all
 ||graflow.cz^$all
