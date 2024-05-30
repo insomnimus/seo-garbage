@@ -85,6 +85,7 @@
 ||stehovani-vesely.cz^$all
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
+||thehealthyapron.com^$all
 ||thekitchencommunity.org^$all
 ||theseasideinstitute.org^$all
 ||thewellflouredkitchen.com^$all
