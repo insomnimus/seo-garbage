@@ -16,6 +16,7 @@
 ||cepi.io^$all
 ||chefsresource.com^$all
 ||coalitionbrewing.com^$all
+||coffeeotter.com^$all
 ||cookindocs.com^$all
 ||cookingbrush.com^$all
 ||cookupexperts.com^$all
