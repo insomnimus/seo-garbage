@@ -7,6 +7,7 @@
 duckduckgo.com##.react-results--main > li:has(a[href*="45sro.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="altrichter.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="atonce.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="audiospectra.net"])
 duckduckgo.com##.react-results--main > li:has(a[href*="autohausszymon.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="backprojekt.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="bakedideas.com"])

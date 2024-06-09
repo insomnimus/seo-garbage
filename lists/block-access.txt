@@ -7,6 +7,7 @@
 ||45sro.cz^$all
 ||altrichter.cz^$all
 ||atonce.com^$all
+||audiospectra.net^$all
 ||autohausszymon.cz^$all
 ||backprojekt.cz^$all
 ||bakedideas.com^$all
