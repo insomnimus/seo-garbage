@@ -14,6 +14,7 @@
 ||bilovickacukrarna.cz^$all
 ||brewingway.com^$all
 ||by-kate.cz^$all
+||cappuccinooracle.com^$all
 ||cepi.io^$all
 ||chefsresource.com^$all
 ||coalitionbrewing.com^$all
