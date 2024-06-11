@@ -23,6 +23,7 @@
 ||cookingbrush.com^$all
 ||cookupexperts.com^$all
 ||delux-kariera.cz^$all
+||discover.texasrealfood.com^$all
 ||dnrhoee.com^$all
 ||dohenr.com^$all
 ||domybrezina.cz^$all
