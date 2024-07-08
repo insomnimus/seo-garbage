@@ -112,6 +112,7 @@
 ||vunda.click^$all
 ||wholebiteblog.com^$all
 ||winemakerscorner.com^$all
+||winemixture.com^$all
 ||worldpopulationreview.com^$all
 ||xspdf.com^$all
 ||zdravykramek.cz^$all
