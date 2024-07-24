@@ -66,6 +66,7 @@
 ||masazeboleslav.cz^$all
 ||moneualcz.cz^$all
 ||morioh.com^$all
+||murf.ai^$all
 ||natureword.com^$all
 ||novymsmerem.cz^$all
 ||organicauthority.com^$all
