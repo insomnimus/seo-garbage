@@ -5,6 +5,7 @@
 ! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
 
 search.brave.com###results > div:has(a[href*="45sro.cz"])
+search.brave.com###results > div:has(a[href*="8minutefitness.com"])
 search.brave.com###results > div:has(a[href*="altrichter.cz"])
 search.brave.com###results > div:has(a[href*="atonce.com"])
 search.brave.com###results > div:has(a[href*="audiospectra.net"])

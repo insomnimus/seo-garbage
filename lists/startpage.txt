@@ -5,6 +5,7 @@
 ! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
 
 startpage.com##.w-gl__result:has(a[href*="45sro.cz"])
+startpage.com##.w-gl__result:has(a[href*="8minutefitness.com"])
 startpage.com##.w-gl__result:has(a[href*="altrichter.cz"])
 startpage.com##.w-gl__result:has(a[href*="atonce.com"])
 startpage.com##.w-gl__result:has(a[href*="audiospectra.net"])

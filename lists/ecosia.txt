@@ -5,6 +5,7 @@
 ! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
 
 ecosia.org###main .result:has(a[href*="45sro.cz"])
+ecosia.org###main .result:has(a[href*="8minutefitness.com"])
 ecosia.org###main .result:has(a[href*="altrichter.cz"])
 ecosia.org###main .result:has(a[href*="atonce.com"])
 ecosia.org###main .result:has(a[href*="audiospectra.net"])

@@ -5,6 +5,7 @@
 ! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
 
 duckduckgo.com##.react-results--main > li:has(a[href*="45sro.cz"])
+duckduckgo.com##.react-results--main > li:has(a[href*="8minutefitness.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="altrichter.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="atonce.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="audiospectra.net"])
