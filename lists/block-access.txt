@@ -46,6 +46,7 @@
 ||gps-tracker.cz^$all
 ||graflow.cz^$all
 ||greengoscantina.com^$all
+||happyfoodhealthylife.com^$all
 ||healthyandnaturalworld.com^$all
 ||healthyfoodforliving.com^$all
 ||hlelrse.com^$all
