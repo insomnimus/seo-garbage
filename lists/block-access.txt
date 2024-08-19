@@ -113,6 +113,7 @@
 ||virivka-virivky.cz^$all
 ||virtualni-poradce.cz^$all
 ||vunda.click^$all
+||webdevtutor.net^$all
 ||wholebiteblog.com^$all
 ||winemakerscorner.com^$all
 ||winemixture.com^$all
