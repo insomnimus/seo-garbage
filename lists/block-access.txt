@@ -97,6 +97,7 @@
 ||stehovani-vesely.cz^$all
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
+||testogenie.com^$all
 ||thehealthyapron.com^$all
 ||thekitchencommunity.org^$all
 ||theseasideinstitute.org^$all
