@@ -7,6 +7,7 @@
 ||45sro.cz^$all
 ||8minutefitness.com^$all
 ||altrichter.cz^$all
+||artofbarista.com^$all
 ||atonce.com^$all
 ||audiospectra.net^$all
 ||autohausszymon.cz^$all
@@ -98,6 +99,7 @@
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
 ||testogenie.com^$all
+||testosteronerd.com^$all
 ||thehealthyapron.com^$all
 ||thekitchencommunity.org^$all
 ||theseasideinstitute.org^$all
