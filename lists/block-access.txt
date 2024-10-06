@@ -98,6 +98,7 @@
 ||stehovani-vesely.cz^$all
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
+||techiescientist.com^$all
 ||testogenie.com^$all
 ||testosteronerd.com^$all
 ||thehealthyapron.com^$all
