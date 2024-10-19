@@ -82,6 +82,7 @@
 ||pizzabarborka.cz^$all
 ||pracesvet.cz^$all
 ||pracevtaxi.cz^$all
+||practical-music-production.com^$all
 ||psychosynth.com^$all
 ||pythonpool.com^$all
 ||rattleinnaustin.com^$all
