@@ -40,6 +40,7 @@
 ||epicuredelight.com^$all
 ||ertyws.com^$all
 ||exoticfruitsandvegetables.com^$all
+||expertbrewing.com^$all
 ||experts-exchange.com^$all
 ||folie-stresni.cz^$all
 ||foodchamps.org^$all
