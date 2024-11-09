@@ -71,6 +71,7 @@
 ||mariekouc.cz^$all
 ||masazeboleslav.cz^$all
 ||millenora.com^$all
+||mindpsychiatrist.com^$all
 ||moneualcz.cz^$all
 ||morioh.com^$all
 ||murf.ai^$all
