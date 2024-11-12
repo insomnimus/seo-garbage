@@ -42,6 +42,7 @@
 ||exoticfruitsandvegetables.com^$all
 ||expertbrewing.com^$all
 ||experts-exchange.com^$all
+||fleurdeselgourmet.com^$all
 ||folie-stresni.cz^$all
 ||foodchamps.org^$all
 ||fruitonix.com^$all
