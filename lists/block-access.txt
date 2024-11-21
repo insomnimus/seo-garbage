@@ -104,6 +104,7 @@
 ||stehovani-vesely.cz^$all
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
+||supportyourtech.com^$all
 ||techiescientist.com^$all
 ||testogenie.com^$all
 ||testosteronerd.com^$all
