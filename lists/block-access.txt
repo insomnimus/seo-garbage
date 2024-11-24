@@ -20,6 +20,7 @@
 ||by-kate.cz^$all
 ||cappuccinooracle.com^$all
 ||cepi.io^$all
+||cheeseorigin.com^$all
 ||chefsresource.com^$all
 ||coalitionbrewing.com^$all
 ||coffeeotter.com^$all
