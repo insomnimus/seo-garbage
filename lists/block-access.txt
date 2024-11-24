@@ -7,6 +7,7 @@
 ||45sro.cz^$all
 ||8minutefitness.com^$all
 ||altrichter.cz^$all
+||amodernhomestead.com^$all
 ||artofbarista.com^$all
 ||atonce.com^$all
 ||audiospectra.net^$all
