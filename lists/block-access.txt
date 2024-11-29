@@ -103,6 +103,7 @@
 ||sirox.cz^$all
 ||skillapp.co^$all
 ||speechify.com^$all
+||spiceluna.com^$all
 ||spicytrio.com^$all
 ||stehovani-vesely.cz^$all
 ||sundialwineandwellness.com^$all
