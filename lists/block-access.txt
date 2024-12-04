@@ -67,6 +67,7 @@
 ||installati.one^$all
 ||ironandgrit.com^$all
 ||jewellerythrone.com^$all
+||justaveragejen.com^$all
 ||kbbeta.cz^$all
 ||legit.ng^$all
 ||linovox.com^$all
