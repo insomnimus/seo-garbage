@@ -26,6 +26,7 @@
 ||chefsresource.com^$all
 ||coalitionbrewing.com^$all
 ||coffeeotter.com^$all
+||coffeewdy.com^$all
 ||cookindocs.com^$all
 ||cookingbrush.com^$all
 ||cookupexperts.com^$all
