@@ -15,6 +15,7 @@
 ||backprojekt.cz^$all
 ||bakedideas.com^$all
 ||bassplayercenter.com^$all
+||beanground.com^$all
 ||beatcrave.com^$all
 ||bilovickacukrarna.cz^$all
 ||brewingway.com^$all
