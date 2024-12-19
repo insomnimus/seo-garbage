@@ -127,6 +127,7 @@
 ||uklid-nejlevneji.cz^$all
 ||uklidpaja.cz^$all
 ||usebalsamicvinegar.com^$all
+||vacuumsealerzone.com^$all
 ||vedome-leceni-anaiemira.cz^$all
 ||verywellfit.com^$all
 ||vinca.cz^$all
