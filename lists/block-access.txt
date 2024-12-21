@@ -60,6 +60,7 @@
 ||happyfoodhealthylife.com^$all
 ||healthyandnaturalworld.com^$all
 ||healthyfoodforliving.com^$all
+||help.livemomentous.com^$all
 ||hlelrse.com^$all
 ||homediningkitchen.com^$all
 ||homerecordingpro.com^$all
