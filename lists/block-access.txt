@@ -138,6 +138,7 @@
 ||vunda.click^$all
 ||webdevtutor.net^$all
 ||wholebiteblog.com^$all
+||wildlifeinformer.com^$all
 ||winemakerscorner.com^$all
 ||winemixture.com^$all
 ||worldpopulationreview.com^$all
