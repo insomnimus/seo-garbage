@@ -17,6 +17,7 @@
 ||bassplayercenter.com^$all
 ||beanground.com^$all
 ||beatcrave.com^$all
+||bestspots.com.au^$all
 ||bilovickacukrarna.cz^$all
 ||brewingway.com^$all
 ||by-kate.cz^$all
