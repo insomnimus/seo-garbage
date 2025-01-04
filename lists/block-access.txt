@@ -120,6 +120,7 @@
 ||testosteronerd.com^$all
 ||thehealthyapron.com^$all
 ||thekitchencommunity.org^$all
+||thekitchenknowhow.com^$all
 ||theseasideinstitute.org^$all
 ||thewellflouredkitchen.com^$all
 ||truhlarstvi-trebic.cz^$all
