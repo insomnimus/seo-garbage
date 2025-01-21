@@ -20,6 +20,7 @@
 ||bestspots.com.au^$all
 ||bilovickacukrarna.cz^$all
 ||brewingway.com^$all
+||buoyhealth.com^$all
 ||by-kate.cz^$all
 ||cappuccinooracle.com^$all
 ||cepi.io^$all
