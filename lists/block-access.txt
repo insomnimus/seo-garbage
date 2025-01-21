@@ -104,6 +104,7 @@
 ||retwyia.com^$all
 ||rudolfprchlikphoto.cz^$all
 ||sampletestfile.com^$all
+||sandiegohealth.org^$all
 ||sarkaw.cz^$all
 ||savorysuitcase.com^$all
 ||simpleo.cz^$all
