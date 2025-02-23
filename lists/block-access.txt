@@ -66,6 +66,7 @@
 ||hlelrse.com^$all
 ||homediningkitchen.com^$all
 ||homerecordingpro.com^$all
+||homesteadandprepper.com^$all
 ||hordunwebs.cz^$all
 ||hospodaulipy.cz^$all
 ||hotsaucehell.com^$all
