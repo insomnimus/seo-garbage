@@ -19,6 +19,7 @@
 ||beatcrave.com^$all
 ||bestspots.com.au^$all
 ||bilovickacukrarna.cz^$all
+||blog.guitaristnextdoor.com^$all
 ||brewingway.com^$all
 ||buoyhealth.com^$all
 ||by-kate.cz^$all
