@@ -6,6 +6,7 @@
 
 ||45sro.cz^$all
 ||8minutefitness.com^$all
+||98reviews.com^$all
 ||altrichter.cz^$all
 ||amodernhomestead.com^$all
 ||artofbarista.com^$all
