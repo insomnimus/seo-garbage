@@ -46,6 +46,7 @@
 ||eatdelights.com^$all
 ||eden-chalupa.cz^$all
 ||ehow.co.uk^$all
+||eleccircs.com^$all
 ||empirefoodsworld.com^$all
 ||epicuredelight.com^$all
 ||ertyws.com^$all
