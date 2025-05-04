@@ -57,6 +57,7 @@
 ||fleurdeselgourmet.com^$all
 ||folie-stresni.cz^$all
 ||foodchamps.org^$all
+||foodypage.com^$all
 ||fruitonix.com^$all
 ||gitmemory.com^$all
 ||gps-tracker.cz^$all
