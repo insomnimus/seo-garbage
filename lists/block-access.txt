@@ -43,6 +43,7 @@
 ||draxe.com^$all
 ||drivecabrio.cz^$all
 ||dvorakjakub.cz^$all
+||easyhealthyfoods.com^$all
 ||eatdelights.com^$all
 ||eden-chalupa.cz^$all
 ||ehow.co.uk^$all
