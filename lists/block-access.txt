@@ -70,6 +70,7 @@
 ||help.livemomentous.com^$all
 ||hlelrse.com^$all
 ||homediningkitchen.com^$all
+||homemusicmaker.com^$all
 ||homerecordingpro.com^$all
 ||homesteadandprepper.com^$all
 ||hordunwebs.cz^$all

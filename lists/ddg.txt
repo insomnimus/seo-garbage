@@ -70,6 +70,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="healthyfoodforliving.com"
 duckduckgo.com##.react-results--main > li:has(a[href*="help.livemomentous.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="hlelrse.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="homediningkitchen.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="homemusicmaker.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="homerecordingpro.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="homesteadandprepper.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="hordunwebs.cz"])
