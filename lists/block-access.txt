@@ -52,6 +52,7 @@
 ||epicuredelight.com^$all
 ||ertyws.com^$all
 ||exoticfruitsandvegetables.com^$all
+||expertbeacon.com^$all
 ||expertbrewing.com^$all
 ||experts-exchange.com^$all
 ||fleurdeselgourmet.com^$all
