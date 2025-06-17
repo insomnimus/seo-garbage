@@ -122,6 +122,7 @@
 ||speechify.com^$all
 ||spiceluna.com^$all
 ||spicytrio.com^$all
+||splicedonline.com^$all
 ||stehovani-vesely.cz^$all
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
