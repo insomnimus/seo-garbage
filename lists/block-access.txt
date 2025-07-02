@@ -60,6 +60,7 @@
 ||foodchamps.org^$all
 ||foodypage.com^$all
 ||fruitonix.com^$all
+||gameslearningsociety.org^$all
 ||gitmemory.com^$all
 ||gps-tracker.cz^$all
 ||graflow.cz^$all
