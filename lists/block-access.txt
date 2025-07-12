@@ -89,6 +89,7 @@
 ||linovox.com^$all
 ||loavesanddishes.net^$all
 ||lukasvalco.cz^$all
+||luxucharm.com^$all
 ||madebykiki.cz^$all
 ||mapyourdreams.cz^$all
 ||mariekouc.cz^$all
