@@ -55,6 +55,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="exoticfruitsandvegetables
 duckduckgo.com##.react-results--main > li:has(a[href*="expertbeacon.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="expertbrewing.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="experts-exchange.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="flavoringfood.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="fleurdeselgourmet.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="folie-stresni.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="foodchamps.org"])
