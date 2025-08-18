@@ -33,6 +33,7 @@
 ||coffeewdy.com^$all
 ||cookindocs.com^$all
 ||cookingbrush.com^$all
+||cooknight.net^$all
 ||cookupexperts.com^$all
 ||delux-kariera.cz^$all
 ||discover.texasrealfood.com^$all
