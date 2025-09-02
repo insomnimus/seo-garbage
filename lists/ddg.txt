@@ -115,6 +115,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="practical-music-productio
 duckduckgo.com##.react-results--main > li:has(a[href*="psychosynth.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="pythonpool.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="rattleinnaustin.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="reclaim.ai"])
 duckduckgo.com##.react-results--main > li:has(a[href*="restonyc.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="retwyia.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="rudolfprchlikphoto.cz"])
