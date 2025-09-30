@@ -7,6 +7,7 @@
 search.brave.com###results > div:has(a[href*="45sro.cz"])
 search.brave.com###results > div:has(a[href*="8minutefitness.com"])
 search.brave.com###results > div:has(a[href*="98reviews.com"])
+search.brave.com###results > div:has(a[href*="allforturntables.com"])
 search.brave.com###results > div:has(a[href*="altrichter.cz"])
 search.brave.com###results > div:has(a[href*="amodernhomestead.com"])
 search.brave.com###results > div:has(a[href*="artofbarista.com"])
