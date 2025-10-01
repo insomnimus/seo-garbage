@@ -61,6 +61,7 @@
 ||fleurdeselgourmet.com^$all
 ||folie-stresni.cz^$all
 ||foodchamps.org^$all
+||foodsguy.com^$all
 ||foodypage.com^$all
 ||fruitonix.com^$all
 ||gameslearningsociety.org^$all
