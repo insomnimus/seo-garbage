@@ -71,6 +71,7 @@
 ||greenwaykitchen.com^$all
 ||h-o-m-e.org^$all
 ||happyfoodhealthylife.com^$all
+||happymuncher.com^$all
 ||healthyandnaturalworld.com^$all
 ||healthyfoodforliving.com^$all
 ||help.livemomentous.com^$all
