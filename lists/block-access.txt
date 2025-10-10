@@ -121,6 +121,7 @@
 ||reclaim.ai^$all
 ||restonyc.com^$all
 ||retwyia.com^$all
+||routines.club^$all
 ||rudolfprchlikphoto.cz^$all
 ||sampletestfile.com^$all
 ||sandiegohealth.org^$all
