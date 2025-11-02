@@ -11,6 +11,7 @@
 ||altrichter.cz^$all
 ||amodernhomestead.com^$all
 ||artofbarista.com^$all
+||asurion.com^$all
 ||atonce.com^$all
 ||audiospectra.net^$all
 ||autohausszymon.cz^$all
@@ -73,6 +74,7 @@
 ||h-o-m-e.org^$all
 ||happyfoodhealthylife.com^$all
 ||happymuncher.com^$all
+||healthusias.com^$all
 ||healthyandnaturalworld.com^$all
 ||healthyfoodforliving.com^$all
 ||help.livemomentous.com^$all
@@ -130,6 +132,7 @@
 ||simpleo.cz^$all
 ||sirox.cz^$all
 ||skillapp.co^$all
+||sleepandsinuscenters.com^$all
 ||speechify.com^$all
 ||spiceluna.com^$all
 ||spicytrio.com^$all
