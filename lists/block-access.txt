@@ -59,6 +59,7 @@
 ||expertbeacon.com^$all
 ||expertbrewing.com^$all
 ||experts-exchange.com^$all
+||fanarch.com^$all
 ||flavor365.com^$all
 ||flavoringfood.com^$all
 ||fleurdeselgourmet.com^$all
