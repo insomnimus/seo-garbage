@@ -38,6 +38,7 @@
 ||cooknight.net^$all
 ||cookupexperts.com^$all
 ||cyvigor.com^$all
+||decorwithstyle.com^$all
 ||delux-kariera.cz^$all
 ||discover.texasrealfood.com^$all
 ||dnrhoee.com^$all
