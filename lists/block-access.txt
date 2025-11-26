@@ -112,6 +112,7 @@
 ||murf.ai^$all
 ||natureword.com^$all
 ||novymsmerem.cz^$all
+||nutsdb.com^$all
 ||organicauthority.com^$all
 ||otu-cus.cz^$all
 ||patricienovakova.cz^$all
