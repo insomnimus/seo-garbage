@@ -61,6 +61,7 @@
 ||expertbrewing.com^$all
 ||experts-exchange.com^$all
 ||fanarch.com^$all
+||fitliferegime.com^$all
 ||flavor365.com^$all
 ||flavoringfood.com^$all
 ||fleurdeselgourmet.com^$all
@@ -85,14 +86,17 @@
 ||hlelrse.com^$all
 ||homediningkitchen.com^$all
 ||homemusicmaker.com^$all
+||homephysiotherapyexercises.com^$all
 ||homerecordingpro.com^$all
 ||homesteadandprepper.com^$all
+||homeviable.com^$all
 ||hordunwebs.cz^$all
 ||hospodaulipy.cz^$all
 ||hotsaucehell.com^$all
 ||hubwiz.com^$all
 ||installati.one^$all
 ||ironandgrit.com^$all
+||jackedgorilla.com^$all
 ||jewellerythrone.com^$all
 ||k2digitizers.com^$all
 ||kbbeta.cz^$all
@@ -143,6 +147,7 @@
 ||spicytrio.com^$all
 ||splicedonline.com^$all
 ||stehovani-vesely.cz^$all
+||strengthlog.com^$all
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
 ||supportyourtech.com^$all
@@ -171,6 +176,7 @@
 ||virtualni-poradce.cz^$all
 ||vunda.click^$all
 ||webdevtutor.net^$all
+||wellfitinsider.com^$all
 ||wholebiteblog.com^$all
 ||wildlifeinformer.com^$all
 ||winemakerscorner.com^$all
