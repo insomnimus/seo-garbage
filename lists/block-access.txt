@@ -11,6 +11,7 @@
 ||altrichter.cz^$all
 ||amodernhomestead.com^$all
 ||artofbarista.com^$all
+||asmallkitcheningenoa.com^$all
 ||asurion.com^$all
 ||atonce.com^$all
 ||audiospectra.net^$all
