@@ -24,6 +24,7 @@
 ||bestspots.com.au^$all
 ||bilovickacukrarna.cz^$all
 ||blog.guitaristnextdoor.com^$all
+||brewingcrafter.com^$all
 ||brewingway.com^$all
 ||buoyhealth.com^$all
 ||by-kate.cz^$all
@@ -42,6 +43,7 @@
 ||decorwithstyle.com^$all
 ||delux-kariera.cz^$all
 ||discover.texasrealfood.com^$all
+||dishgen.com^$all
 ||dnrhoee.com^$all
 ||dohenr.com^$all
 ||domybrezina.cz^$all
@@ -102,6 +104,7 @@
 ||k2digitizers.com^$all
 ||kbbeta.cz^$all
 ||legit.ng^$all
+||liftmanual.com^$all
 ||linovox.com^$all
 ||loavesanddishes.net^$all
 ||lukasvalco.cz^$all
