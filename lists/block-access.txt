@@ -39,6 +39,7 @@
 ||cookingbrush.com^$all
 ||cooknight.net^$all
 ||cookupexperts.com^$all
+||culinarysolvent.com^$all
 ||cyvigor.com^$all
 ||decorwithstyle.com^$all
 ||delux-kariera.cz^$all
@@ -155,6 +156,7 @@
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
 ||supportyourtech.com^$all
+||tasteebrew.com^$all
 ||techiescientist.com^$all
 ||testogenie.com^$all
 ||testosteronerd.com^$all
