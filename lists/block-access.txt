@@ -98,6 +98,7 @@
 ||hospodaulipy.cz^$all
 ||hotsaucehell.com^$all
 ||hubwiz.com^$all
+||insightfulblog.com^$all
 ||installati.one^$all
 ||ironandgrit.com^$all
 ||jackedgorilla.com^$all
