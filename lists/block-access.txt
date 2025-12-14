@@ -154,6 +154,7 @@
 ||sleepandsinuscenters.com^$all
 ||speechify.com^$all
 ||spiceluna.com^$all
+||spicestoryteller.com^$all
 ||spicytrio.com^$all
 ||splicedonline.com^$all
 ||stehovani-vesely.cz^$all
