@@ -96,6 +96,7 @@
 ||homerecordingpro.com^$all
 ||homesteadandprepper.com^$all
 ||homeviable.com^$all
+||honestcooking.com^$all
 ||hordunwebs.cz^$all
 ||hospodaulipy.cz^$all
 ||hotsaucehell.com^$all

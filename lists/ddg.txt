@@ -96,6 +96,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="homephysiotherapyexercise
 duckduckgo.com##.react-results--main > li:has(a[href*="homerecordingpro.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="homesteadandprepper.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="homeviable.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="honestcooking.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="hordunwebs.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="hospodaulipy.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="hotsaucehell.com"])
