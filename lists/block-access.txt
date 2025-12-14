@@ -90,6 +90,7 @@
 ||hlelrse.com^$all
 ||homediningkitchen.com^$all
 ||homemusicmaker.com^$all
+||homeniches.com^$all
 ||homephysiotherapyexercises.com^$all
 ||homerecordingpro.com^$all
 ||homesteadandprepper.com^$all
