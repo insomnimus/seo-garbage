@@ -172,6 +172,7 @@
 ||twrmas.com^$all
 ||tzfoto.cz^$all
 ||ubydlim.cz^$all
+||ukherbals.co.uk^$all
 ||uklid-nejlevneji.cz^$all
 ||uklidpaja.cz^$all
 ||usebalsamicvinegar.com^$all
