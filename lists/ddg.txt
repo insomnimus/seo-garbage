@@ -170,6 +170,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="thekitchencommunity.org"]
 duckduckgo.com##.react-results--main > li:has(a[href*="thekitchenknowhow.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="theseasideinstitute.org"])
 duckduckgo.com##.react-results--main > li:has(a[href*="thewellflouredkitchen.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="tincted.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="toxigon.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="truhlarstvi-trebic.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="twrmas.com"])

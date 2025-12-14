@@ -170,6 +170,7 @@
 ||thekitchenknowhow.com^$all
 ||theseasideinstitute.org^$all
 ||thewellflouredkitchen.com^$all
+||tincted.com^$all
 ||toxigon.com^$all
 ||truhlarstvi-trebic.cz^$all
 ||twrmas.com^$all
