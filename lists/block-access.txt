@@ -37,6 +37,7 @@
 ||coffeewdy.com^$all
 ||cookindocs.com^$all
 ||cookingbrush.com^$all
+||cookingupdate.com^$all
 ||cooknight.net^$all
 ||cookupexperts.com^$all
 ||culinarysolvent.com^$all
