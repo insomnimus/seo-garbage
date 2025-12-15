@@ -151,6 +151,7 @@
 ||sarkaw.cz^$all
 ||savorysuitcase.com^$all
 ||simpleo.cz^$all
+||simplybeyondherbs.com^$all
 ||sirox.cz^$all
 ||skillapp.co^$all
 ||sleepandsinuscenters.com^$all
