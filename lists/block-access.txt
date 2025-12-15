@@ -108,6 +108,7 @@
 ||jewellerythrone.com^$all
 ||k2digitizers.com^$all
 ||kbbeta.cz^$all
+||kitchenaiding.com^$all
 ||legit.ng^$all
 ||liftmanual.com^$all
 ||linovox.com^$all
