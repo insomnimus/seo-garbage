@@ -98,6 +98,7 @@
 ||homeviable.com^$all
 ||honestcooking.com^$all
 ||hordunwebs.cz^$all
+||hortonbarbell.com^$all
 ||hospodaulipy.cz^$all
 ||hotsaucehell.com^$all
 ||hubwiz.com^$all
