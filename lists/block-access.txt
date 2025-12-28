@@ -19,6 +19,7 @@
 ||backprojekt.cz^$all
 ||bakedideas.com^$all
 ||bassplayercenter.com^$all
+||batchmead.com^$all
 ||beanground.com^$all
 ||beatcrave.com^$all
 ||bestspots.com.au^$all
@@ -128,6 +129,7 @@
 ||murf.ai^$all
 ||natureword.com^$all
 ||nelliebloom.com^$all
+||nguyenminhnam.com^$all
 ||novymsmerem.cz^$all
 ||nutsdb.com^$all
 ||organicauthority.com^$all
