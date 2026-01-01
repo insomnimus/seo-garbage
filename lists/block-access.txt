@@ -178,6 +178,7 @@
 ||thekitchenknowhow.com^$all
 ||theseasideinstitute.org^$all
 ||thewellflouredkitchen.com^$all
+||thisnutrition.com^$all
 ||tincted.com^$all
 ||toxigon.com^$all
 ||truhlarstvi-trebic.cz^$all
