@@ -22,6 +22,7 @@
 ||batchmead.com^$all
 ||beanground.com^$all
 ||beatcrave.com^$all
+||beekeepercorner.com^$all
 ||bestspots.com.au^$all
 ||bilovickacukrarna.cz^$all
 ||blog.guitaristnextdoor.com^$all
@@ -39,6 +40,7 @@
 ||cookindocs.com^$all
 ||cookingbrush.com^$all
 ||cookingupdate.com^$all
+||cookingwithgreekpeople.com^$all
 ||cooknight.net^$all
 ||cookupexperts.com^$all
 ||culinarysolvent.com^$all
@@ -111,6 +113,7 @@
 ||k2digitizers.com^$all
 ||kbbeta.cz^$all
 ||kitchenaiding.com^$all
+||leanffmi.com^$all
 ||legit.ng^$all
 ||liftmanual.com^$all
 ||linovox.com^$all
