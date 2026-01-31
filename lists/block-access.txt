@@ -53,6 +53,7 @@
 ||dohenr.com^$all
 ||domybrezina.cz^$all
 ||doubleagency.cz^$all
+||doughnutlounge.com^$all
 ||draxe.com^$all
 ||drivecabrio.cz^$all
 ||dvorakjakub.cz^$all
