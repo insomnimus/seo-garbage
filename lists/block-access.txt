@@ -93,6 +93,7 @@
 ||healthyandnaturalworld.com^$all
 ||healthyfoodforliving.com^$all
 ||help.livemomentous.com^$all
+||highlownyc.com^$all
 ||hlelrse.com^$all
 ||homediningkitchen.com^$all
 ||homemusicmaker.com^$all
