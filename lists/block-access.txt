@@ -79,6 +79,7 @@
 ||foodsguy.com^$all
 ||foodypage.com^$all
 ||fruitonix.com^$all
+||gacraftspirits.com^$all
 ||gameslearningsociety.org^$all
 ||gitmemory.com^$all
 ||gps-tracker.cz^$all
