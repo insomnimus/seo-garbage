@@ -18,6 +18,7 @@
 ||autohausszymon.cz^$all
 ||backprojekt.cz^$all
 ||bakedideas.com^$all
+||barrelsonline.com^$all
 ||bassplayercenter.com^$all
 ||batchmead.com^$all
 ||beanground.com^$all
