@@ -94,6 +94,7 @@
 ||healthusias.com^$all
 ||healthyandnaturalworld.com^$all
 ||healthyfoodforliving.com^$all
+||hecooks.co^$all
 ||help.livemomentous.com^$all
 ||highlownyc.com^$all
 ||hlelrse.com^$all
