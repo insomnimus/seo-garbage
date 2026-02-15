@@ -45,6 +45,7 @@
 ||cookingwithgreekpeople.com^$all
 ||cooknight.net^$all
 ||cookupexperts.com^$all
+||coracaoconfections.com^$all
 ||culinarysolvent.com^$all
 ||cyvigor.com^$all
 ||decorwithstyle.com^$all
