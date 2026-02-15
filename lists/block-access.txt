@@ -35,6 +35,7 @@
 ||cepi.io^$all
 ||cheeseorigin.com^$all
 ||chefsresource.com^$all
+||chemistrycachet.com^$all
 ||coalitionbrewing.com^$all
 ||coffeeotter.com^$all
 ||coffeeplusthree.com^$all
