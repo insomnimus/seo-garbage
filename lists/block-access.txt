@@ -135,6 +135,7 @@
 ||metrocookingdallas.com^$all
 ||millenora.com^$all
 ||mindpsychiatrist.com^$all
+||mommypotamus.com^$all
 ||moneualcz.cz^$all
 ||morioh.com^$all
 ||murf.ai^$all
