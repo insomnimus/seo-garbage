@@ -121,6 +121,7 @@
 ||kitchenaiding.com^$all
 ||leanffmi.com^$all
 ||legit.ng^$all
+||letmedish.com^$all
 ||liftmanual.com^$all
 ||linovox.com^$all
 ||loavesanddishes.net^$all
