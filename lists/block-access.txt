@@ -61,6 +61,7 @@
 ||draxe.com^$all
 ||drivecabrio.cz^$all
 ||dvorakjakub.cz^$all
+||easycleancook.com^$all
 ||easyhealthyfoods.com^$all
 ||eatdelights.com^$all
 ||eden-chalupa.cz^$all
