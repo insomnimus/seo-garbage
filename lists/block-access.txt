@@ -218,6 +218,7 @@
 ||winemakerscorner.com^$all
 ||winemixture.com^$all
 ||worldpopulationreview.com^$all
+||xmodhub.com^$all
 ||xspdf.com^$all
 ||zdravykramek.cz^$all
 ||zednictvi-tesarstvi.cz^$all
