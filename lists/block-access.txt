@@ -85,6 +85,7 @@
 ||foodypage.com^$all
 ||fruitonix.com^$all
 ||gacraftspirits.com^$all
+||gamerblurb.com^$all
 ||gameslearningsociety.org^$all
 ||gitmemory.com^$all
 ||gps-tracker.cz^$all
