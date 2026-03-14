@@ -123,6 +123,7 @@
 ||k2digitizers.com^$all
 ||kbbeta.cz^$all
 ||kitchenaiding.com^$all
+||kitchprep.com^$all
 ||leanffmi.com^$all
 ||legit.ng^$all
 ||letmedish.com^$all
