@@ -27,6 +27,7 @@
 ||bestspots.com.au^$all
 ||bilovickacukrarna.cz^$all
 ||blog.guitaristnextdoor.com^$all
+||blogchef.net^$all
 ||brewingcrafter.com^$all
 ||brewingway.com^$all
 ||buoyhealth.com^$all
