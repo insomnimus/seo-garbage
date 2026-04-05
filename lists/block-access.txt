@@ -26,6 +26,7 @@
 ||beekeepercorner.com^$all
 ||bestspots.com.au^$all
 ||bilovickacukrarna.cz^$all
+||blinksandbuttons.net^$all
 ||blog.guitaristnextdoor.com^$all
 ||blogchef.net^$all
 ||brewingcrafter.com^$all
