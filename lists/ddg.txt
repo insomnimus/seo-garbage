@@ -76,6 +76,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="exoticfruitsandvegetables
 duckduckgo.com##.react-results--main > li:has(a[href*="expertbeacon.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="expertbrewing.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="experts-exchange.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="eyesonshow.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="fanarch.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="fitliferegime.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="flavor365.com"])
