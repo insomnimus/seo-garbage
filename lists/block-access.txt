@@ -218,6 +218,7 @@
 ||vunda.click^$all
 ||webdevtutor.net^$all
 ||wellfitinsider.com^$all
+||whiskeyreviewer.com^$all
 ||wholebiteblog.com^$all
 ||wildlifeinformer.com^$all
 ||winemakerscorner.com^$all
