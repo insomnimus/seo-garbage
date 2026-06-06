@@ -114,6 +114,7 @@
 ||homesteadandprepper.com^$all
 ||homeviable.com^$all
 ||honestcooking.com^$all
+||hopstersbrew.com^$all
 ||hordunwebs.cz^$all
 ||hortonbarbell.com^$all
 ||hospodaulipy.cz^$all
