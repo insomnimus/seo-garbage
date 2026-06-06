@@ -105,6 +105,7 @@
 ||help.livemomentous.com^$all
 ||highlownyc.com^$all
 ||hlelrse.com^$all
+||homebrewacademy.com^$all
 ||homediningkitchen.com^$all
 ||homemusicmaker.com^$all
 ||homeniches.com^$all
