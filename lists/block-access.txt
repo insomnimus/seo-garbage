@@ -195,6 +195,7 @@
 ||testosteronerd.com^$all
 ||thefitnessphantom.com^$all
 ||theflexkitchen.com^$all
+||thegameslayer.com^$all
 ||thehealthyapron.com^$all
 ||thekitchencommunity.org^$all
 ||thekitchenknowhow.com^$all
