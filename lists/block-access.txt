@@ -193,6 +193,7 @@
 ||techiescientist.com^$all
 ||testogenie.com^$all
 ||testosteronerd.com^$all
+||thedrinksproject.com^$all
 ||thefitnessphantom.com^$all
 ||theflexkitchen.com^$all
 ||thegameslayer.com^$all
