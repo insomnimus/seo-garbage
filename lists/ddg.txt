@@ -31,6 +31,7 @@ duckduckgo.com##.react-results--main > li:has(a[href*="blog.guitaristnextdoor.co
 duckduckgo.com##.react-results--main > li:has(a[href*="blogchef.net"])
 duckduckgo.com##.react-results--main > li:has(a[href*="brewingcrafter.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="brewingway.com"])
+duckduckgo.com##.react-results--main > li:has(a[href*="brewpublik.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="buoyhealth.com"])
 duckduckgo.com##.react-results--main > li:has(a[href*="by-kate.cz"])
 duckduckgo.com##.react-results--main > li:has(a[href*="cappuccinooracle.com"])
