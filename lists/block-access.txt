@@ -25,6 +25,7 @@
 ||beatcrave.com^$all
 ||beekeepercorner.com^$all
 ||beerbrewerguide.com^$all
+||beerkitbrewer.com^$all
 ||bestspots.com.au^$all
 ||bilovickacukrarna.cz^$all
 ||blinksandbuttons.net^$all
@@ -122,6 +123,7 @@
 ||hortonbarbell.com^$all
 ||hospodaulipy.cz^$all
 ||hotsaucehell.com^$all
+||howtohomebrewbeers.com^$all
 ||hubwiz.com^$all
 ||insightfulblog.com^$all
 ||installati.one^$all
