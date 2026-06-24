@@ -24,6 +24,7 @@
 ||beanground.com^$all
 ||beatcrave.com^$all
 ||beekeepercorner.com^$all
+||beerbrewerguide.com^$all
 ||bestspots.com.au^$all
 ||bilovickacukrarna.cz^$all
 ||blinksandbuttons.net^$all
@@ -107,6 +108,7 @@
 ||highlownyc.com^$all
 ||hlelrse.com^$all
 ||homebrewacademy.com^$all
+||homebrewfinds.com^$all
 ||homediningkitchen.com^$all
 ||homemusicmaker.com^$all
 ||homeniches.com^$all
