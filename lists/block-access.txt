@@ -109,6 +109,7 @@
 ||highlownyc.com^$all
 ||hlelrse.com^$all
 ||homebrewacademy.com^$all
+||homebrewadvice.com^$all
 ||homebrewfinds.com^$all
 ||homediningkitchen.com^$all
 ||homemusicmaker.com^$all
