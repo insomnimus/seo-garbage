@@ -181,6 +181,7 @@
 ||sandiegohealth.org^$all
 ||sarkaw.cz^$all
 ||savorysuitcase.com^$all
+||simkl.com^$all
 ||simpleo.cz^$all
 ||simplybeyondherbs.com^$all
 ||sirox.cz^$all
