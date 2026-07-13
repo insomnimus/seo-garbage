@@ -53,6 +53,7 @@
 ||cooknight.net^$all
 ||cookupexperts.com^$all
 ||coracaoconfections.com^$all
+||craftbeerbrewingkit.com^$all
 ||culinarysolvent.com^$all
 ||cyvigor.com^$all
 ||decorwithstyle.com^$all
