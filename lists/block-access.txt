@@ -164,6 +164,7 @@
 ||organicauthority.com^$all
 ||otu-cus.cz^$all
 ||patricienovakova.cz^$all
+||patsnap.com^$all
 ||petr-palicka.cz^$all
 ||phscales.com^$all
 ||pizzabarborka.cz^$all
