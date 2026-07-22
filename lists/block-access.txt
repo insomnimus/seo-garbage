@@ -239,6 +239,7 @@
 ||wildlifeinformer.com^$all
 ||winemakerscorner.com^$all
 ||winemixture.com^$all
+||wordswithletters.org^$all
 ||worldpopulationreview.com^$all
 ||xmodhub.com^$all
 ||xspdf.com^$all
