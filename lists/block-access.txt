@@ -203,6 +203,7 @@
 ||techiescientist.com^$all
 ||testogenie.com^$all
 ||testosteronerd.com^$all
+||thatericalper.com^$all
 ||thedrinksproject.com^$all
 ||thefitnessphantom.com^$all
 ||theflexkitchen.com^$all
