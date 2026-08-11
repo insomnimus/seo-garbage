@@ -36,6 +36,7 @@
 ||brewingway.com^$all
 ||brewmybeer.online^$all
 ||brewpublik.com^$all
+||brewresourceful.com^$all
 ||buoyhealth.com^$all
 ||by-kate.cz^$all
 ||cappuccinooracle.com^$all
