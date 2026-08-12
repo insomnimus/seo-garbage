@@ -201,6 +201,7 @@
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
 ||supportyourtech.com^$all
+||takashimarecordbar.com^$all
 ||tasteebrew.com^$all
 ||techiescientist.com^$all
 ||testogenie.com^$all
