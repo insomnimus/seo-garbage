@@ -197,6 +197,7 @@
 ||spicytrio.com^$all
 ||splicedonline.com^$all
 ||stehovani-vesely.cz^$all
+||strategies.beer^$all
 ||strengthlog.com^$all
 ||sundialwineandwellness.com^$all
 ||sunevents.cz^$all
