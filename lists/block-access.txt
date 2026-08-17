@@ -58,6 +58,7 @@
 ||craftbeerbrewingkit.com^$all
 ||culinarysolvent.com^$all
 ||cyvigor.com^$all
+||darkskiesfilm.com^$all
 ||decorwithstyle.com^$all
 ||delux-kariera.cz^$all
 ||discover.texasrealfood.com^$all
