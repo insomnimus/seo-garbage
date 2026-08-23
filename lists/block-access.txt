@@ -209,6 +209,7 @@
 ||takashimarecordbar.com^$all
 ||tasteebrew.com^$all
 ||techiescientist.com^$all
+||techlasi.com^$all
 ||testogenie.com^$all
 ||testosteronerd.com^$all
 ||thatericalper.com^$all
