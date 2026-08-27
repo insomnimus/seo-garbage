@@ -194,6 +194,7 @@
 ||sirox.cz^$all
 ||skillapp.co^$all
 ||sleepandsinuscenters.com^$all
+||soundbrewery.com^$all
 ||speechify.com^$all
 ||spiceluna.com^$all
 ||spicestoryteller.com^$all
