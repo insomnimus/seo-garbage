@@ -5,6 +5,7 @@
 ! License: https://github.com/insomnimus/seo-garbage/blob/main/LICENSE
 
 ||45sro.cz^$all
+||52brews.com^$all
 ||8minutefitness.com^$all
 ||98reviews.com^$all
 ||allforturntables.com^$all

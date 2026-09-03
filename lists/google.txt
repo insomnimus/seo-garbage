@@ -6,6 +6,8 @@
 
 google.*##.g:has(a[href*="45sro.cz"])
 google.*##a[href*="45sro.cz"]:upward(1)
+google.*##.g:has(a[href*="52brews.com"])
+google.*##a[href*="52brews.com"]:upward(1)
 google.*##.g:has(a[href*="8minutefitness.com"])
 google.*##a[href*="8minutefitness.com"]:upward(1)
 google.*##.g:has(a[href*="98reviews.com"])
