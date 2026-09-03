@@ -133,6 +133,7 @@
 ||hotsaucehell.com^$all
 ||howtohomebrewbeers.com^$all
 ||hubwiz.com^$all
+||infozaem.com^$all
 ||insightfulblog.com^$all
 ||installati.one^$all
 ||ironandgrit.com^$all
@@ -229,6 +230,7 @@
 ||truhlarstvi-trebic.cz^$all
 ||twrmas.com^$all
 ||tzfoto.cz^$all
+||uacred.com^$all
 ||ubydlim.cz^$all
 ||ukherbals.co.uk^$all
 ||uklid-nejlevneji.cz^$all
