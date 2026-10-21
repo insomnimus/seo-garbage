@@ -191,6 +191,7 @@
 ||sandiegohealth.org^$all
 ||sarkaw.cz^$all
 ||savorysuitcase.com^$all
+||showeraddict.com^$all
 ||simkl.com^$all
 ||simpleo.cz^$all
 ||simplybeyondherbs.com^$all
