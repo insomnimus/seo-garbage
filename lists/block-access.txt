@@ -244,6 +244,7 @@
 ||vedome-leceni-anaiemira.cz^$all
 ||verywellfit.com^$all
 ||vinca.cz^$all
+||vinmec.com^$all
 ||virivka-virivky.cz^$all
 ||virtualni-poradce.cz^$all
 ||vunda.click^$all
