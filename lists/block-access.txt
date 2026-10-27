@@ -257,6 +257,7 @@
 ||winemakerscorner.com^$all
 ||winemixture.com^$all
 ||wordswithletters.org^$all
+||world.taobao.com^$all
 ||worldpopulationreview.com^$all
 ||xmodhub.com^$all
 ||xspdf.com^$all
